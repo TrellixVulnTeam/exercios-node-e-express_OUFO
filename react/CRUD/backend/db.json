@@ -1,7 +1,9 @@
 {
-    "users":[{
-        "id": 1,
-        "name":"Arthur",
-        "email": "aoliveira@cad.com.br"
-    }]
+  "users": [
+    {
+      "name": "Vinicius",
+      "email": "vinicius.novais.clear@gmail.com",
+      "id": 1
+    }
+  ]
 }
